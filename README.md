@@ -1,4 +1,4 @@
-# Semantic-Similarity--NLP----Movies
+# NLP_Recommendation - Movies
 
 A function to return which movies a user would watch next if they have watched Planet Hulk (description in code)
 
